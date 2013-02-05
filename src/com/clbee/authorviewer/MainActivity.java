@@ -21,6 +21,9 @@ public class MainActivity extends Activity {
 	}
 
 	private void setText() {
-		captionView.setText(getResources().getString(R.string.hello_world));
+//		captionView.setText(getResources().getString(R.string.hello_world));
+		captionView.setText("바깠어용");
 	}
+	
+	
 }
