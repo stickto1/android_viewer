@@ -1,0 +1,1 @@
+{"0001":[{"Show":"Default","Frame":"{{0,40}, {480, 720}}","Page":"0","ImageFile":"cover10.jpg","SelectPage":"Yes"}]}
